@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jsantos93/jsantos93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [CESAR](https://www.cesar.org.br/) (Recife) as quality assurance automation engineer intern.
+- 📚 I currently studying Computer Science at [CESAR School](https://www.cesar.school)
+- 🌱 I’m always trying to be a better person and a better professional.
+- 👬 I’m looking to collaborate on open-source.
+- 💬 Ask me about whatever you want.
+- 😄 Pronouns: He/Him.
+- 🤘 Hobbies: Surf, Cooking, Video Games.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--- - ⚡ Fun fact: !>
 -->
+
+## 📫 Get in touch:
+
+- Twitter: [@jcoutinho93](https://twitter.com/jcoutinho93)
+- LinkedIn: [@jonathan-santos](https://www.linkedin.com/in/jotasantos/)
+- E-mail: jonathan_coutinho@outlook.com
