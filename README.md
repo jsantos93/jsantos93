@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working at [Valcann](https://www.valcann.com.br) (Recife) as DevOps Engineer Jr.
+- 🔭 I’m currently working at [Valcann](https://www.valcann.com.br) (Recife) as DevOps Engineer.
 - 📚 I currently studying Computer Science at [CESAR School](https://www.cesar.school)
 - 🌱 I’m always trying to be a better person and a better professional.
 - 👬 I’m looking to collaborate on open-source.
@@ -11,7 +11,7 @@
 <!--- - ⚡ Fun fact: !>
 -->
 
-## 📫 Get in touch:
+## 📫 Get in touch
 
 - Twitter: [@jcoutinho93](https://twitter.com/jcoutinho93)
 - LinkedIn: [@jonathan-santos](https://www.linkedin.com/in/jotasantos/)
