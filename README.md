@@ -1,7 +1,6 @@
 # Hi there 👋
 
 - 🔭 I’m currently working at [Valcann](https://www.valcann.com.br) (Recife) as DevOps Engineer.
-- 📚 I currently studying Computer Science at [CESAR School](https://www.cesar.school)
 - 🌱 I’m always trying to be a better person and a better professional.
 - 👬 I’m looking to collaborate on open-source.
 - 💬 Ask me about whatever you want.
